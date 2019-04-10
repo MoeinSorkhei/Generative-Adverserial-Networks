@@ -1,2 +1,2 @@
 # Generative-Adverserial-Networks
-This repository contains code regarding my experiments with brilliant GANs.
+This repository contains code regarding my experiments with brilliant GANs (to be completed).
